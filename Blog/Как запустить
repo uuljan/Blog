@@ -1,0 +1,2 @@
+1.здесь. Активировать виртуальную среду (source vevn/bin/activate)
+2.зайти в app/blogengine, запусить в терминале командой (python3 manage.py runserver 5000)
